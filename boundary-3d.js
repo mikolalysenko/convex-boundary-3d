@@ -14,7 +14,6 @@ outer:
       if(j === i) {
         continue
       }
-      console.log(ply, planes[j])
       ply = splitPolygon(ply, planes[j])
       if(ply.length < 3) {
         continue outer
