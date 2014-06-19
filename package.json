@@ -1,6 +1,6 @@
 {
   "name": "convex-boundary-3d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Finds the boundary of a convex polytope formed by the intersection of halfspaces",
   "main": "boundary-3d.js",
   "directories": {
